@@ -1,3 +1,3 @@
 package com.NcuWeather.android.logic.model
 
-data class Weather(val realime: RealtimeResponse.Realtime, val dAILY:DailyResponse.Daily)
+data class Weather(val realtime: RealtimeResponse.Realtime, val daily:DailyResponse.Daily)

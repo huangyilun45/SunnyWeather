@@ -41,7 +41,7 @@
                     android:layout_height="wrap_content"
                     android:layout_centerVertical="true"
                     android:layout_marginStart="20dp"
-                    android:src="@drawable/b6d"/>
+                    android:src="@drawable/ic_coldrisk"/>
 
                 <LinearLayout
                     android:layout_width="wrap_content"
@@ -87,7 +87,7 @@
                     android:layout_height="wrap_content"
                     android:layout_centerVertical="true"
                     android:layout_marginStart="20dp"
-                    android:src="@drawable/b7f"/>
+                    android:src="@drawable/ic_dressing"/>
 
 
 
@@ -141,7 +141,7 @@
                     android:layout_height="wrap_content"
                     android:layout_centerVertical="true"
                     android:layout_marginStart="20dp"
-                    android:src="@drawable/b14degf"/>
+                    android:src="@drawable/ic_ultraviolet"/>
 
                 <LinearLayout
                     android:layout_width="wrap_content"
@@ -187,7 +187,7 @@
                     android:layout_height="wrap_content"
                     android:layout_centerVertical="true"
                     android:layout_marginStart="20dp"
-                    android:src="@drawable/bg1"/>
+                    android:src="@drawable/ic_carwashing"/>
 
                 <LinearLayout
                     android:layout_width="wrap_content"
